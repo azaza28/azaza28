@@ -43,7 +43,8 @@
   <img width="40%" src="https://randommeme-five.vercel.app/">
 </p> 
 
+
+![snake gif](https://github.com/azaza28/azaza28/blob/output/github-contribution-grid-snake.gif)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=azaza28&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
