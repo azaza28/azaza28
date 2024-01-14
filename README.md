@@ -19,26 +19,28 @@
   <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=azaza28&theme=vue&hide_border=false" />
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=azaza28&theme=vue&hide_border=false&include_all_commits=true&count_private=true" />
   </div>
-<center>
-    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaza28&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> 
-</center>
+  <p align="center">
+    <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaza28&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  </p>    
 </p>
 
 
 ## 🏆 GitHub Trophies
-<div style="text-align: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=azaza28&theme=vue&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophy">
-</div>
+<p align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=azaza28&theme=vue&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophy">
+</p>    
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=vue)
+<p align="center">
+  <img width="30%" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=vue">
+</p> 
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <img width="30%" src="https://randommeme-five.vercel.app/">
+</p> 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=azaza28&icon=0&color=0)](https://visitcount.itsvg.in)
-
 [![](https://visitcount.itsvg.in/api?id=azaza28&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
