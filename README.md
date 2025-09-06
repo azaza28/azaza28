@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://<your-vercel-app>.vercel.app/api?username=azaza28&show_icons=true&theme=gotham&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats-hredcmgsm-azizs-projects-f02297fa.vercel.app.vercel.app/api?username=azaza28&show_icons=true&theme=gotham&count_private=true&cache_seconds=1800"
     alt="azaza28 GitHub stats"
   />
 </p>
