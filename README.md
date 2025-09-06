@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats-one-theta-43.vercel.app/api?username=azaza28&show_icons=true&theme=gotham&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats-one-theta-43.vercel.app/api?username=azaza28&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&cache_seconds=1800"
     alt="azaza28 GitHub stats"
   />
 </p>
