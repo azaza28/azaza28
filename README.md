@@ -60,7 +60,12 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=azaza28&show_icons=true&theme=gotham" alt="azaza28" />
+<p align="center">
+  <img
+    src="https://<your-vercel-app>.vercel.app/api?username=azaza28&show_icons=true&theme=gotham&count_private=true&cache_seconds=1800"
+    alt="azaza28 GitHub stats"
+  />
+</p>
 <p align="center">
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=azaza28&theme=vue&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophy">
 </p>
