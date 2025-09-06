@@ -78,10 +78,3 @@
 </p>
 
 ---
-
-## GitHub Activity Graph
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=azaza28&theme=gotham&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
