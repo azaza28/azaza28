@@ -78,3 +78,12 @@
 </p>
 
 ---
+
+## Rizz
+
+The Timothée Chalamet, Michael B. Jordan, and Donald Glover in the world of ML. Had more relationship with models (regression models) than Kylie Jenner and Kim K all together.
+
+<p align="center">
+  <img width="69%" src="./5b3a504fd1b9fa702e13ba58e07de04a.webp" />
+</p>
+
