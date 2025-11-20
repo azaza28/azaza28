@@ -1,4 +1,4 @@
-# <br> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Assalam alaikum, World! <br> <br> I'm Aziz Latipov<br>
+# <br> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hello, World! <br> <br> I'm Aziz Latipov<br>
 
 ![](https://komarev.com/ghpvc/?username=azaza28&color=blueviolet&style=for-the-badge)
 
