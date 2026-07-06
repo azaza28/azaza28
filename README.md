@@ -1,80 +1,151 @@
-# <br> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hello, World! <br> <br> I'm Aziz Latipov<br>
-
-![](https://komarev.com/ghpvc/?username=azaza28&color=blueviolet&style=for-the-badge)
-
-### 🏢 Professional Experience
-- 🔍 **Machine Learning Engineer** at Uzum Market, RecSys Team, Tashkent, Uzbekistan
-- 💡 Specializing in **Recommendation Systems, Data Science, and AI**
-- 📊 Strong background in **data analysis, model development, and production-ready ML solutions**
-- ⚙️ Experienced in **MLOps, model deployment, and pipeline automation**
-
-### 💡 Personal Overview
-- 🌍 Based in **Tashkent, Uzbekistan**
-- 🧠 Passionate about **solving complex problems through AI-driven solutions**
-- 🎓 Lifelong learner, continuously exploring new advancements in **Machine Learning and Data Science**
-- 🚀 Actively contributing to **open-source projects** and **collaborative research initiatives**
-- 🤝 Engaged in **knowledge-sharing, mentoring, and AI community building**
-
-### 🤝 Let's Connect
-- 👨‍💻 Always open to discussing **AI, ML, and Data Science**
-- 🌟 Enthusiastic about **collaborations, mentorship, and innovative projects**
-- 📬 Feel free to reach out for **networking, discussions, or potential projects**
-
----
-
-## 🌐 Socials
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:aziz.latypoff@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aziz_latypoff)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aziz-latipov-6ba09a269/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Aziz_Latypov)
-
----
-
-## 🚀 Technical Skills
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C/C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-%23AA4A44.svg?style=for-the-badge&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-%2300C4CC.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Data Processing & Visualization
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%232F4F4F.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-
-### MLOps & Deployment
-![Docker](https://img.shields.io/badge/Docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-%230048D7.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-%232F4F4F.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![CI/CD](https://img.shields.io/badge/CI/CD-%234D4D4D.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi, I’m Aziz Latipov 👋</h1>
 <p align="center">
-  <img
-    src="https://github-readme-stats-one-theta-43.vercel.app/api?username=azaza28&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&cache_seconds=1800"
-    alt="azaza28 GitHub stats"
-  />
+  <b>Machine Learning Engineer</b> · Recommender Systems · Applied NLP · Experimentation · Production ML
 </p>
 <p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=azaza28&theme=vue&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophy">
+  <a href="mailto:aziz.latypoff@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aziz-latipov-6ba09a269/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/Aziz_Latypov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=azaza28&style=for-the-badge&color=blueviolet" />
 </p>
 
----
+⸻
 
-## ⚔ Codewars Stats
+About Me
+
+I am a Machine Learning Engineer at Uzum Market, working on production recommender systems, personalization, ranking, and experimentation for large-scale marketplace systems serving millions of users.
+
+My work focuses on building reliable ML systems that connect modeling quality with real-world product and business impact: offline evaluation, A/B testing, deployment, monitoring, and iteration under latency, cost, and scalability constraints.
+
+Beyond industry, I contribute to AI education in Uzbekistan. I am a Teaching Assistant at Yandex ML School Uzbekistan and a former Core Team Member, Course Coordinator, and Mentor at Machine Learning Community Uzbekistan, where I helped organize educational initiatives, workshops, hackathons, and tuition-free machine learning courses.
+
+⸻
+
+Research & Engineering Interests
+
+* Recommender Systems and Personalization
+* Ranking, Retrieval, and Information Access
+* Applied NLP and Multilingual User Data
+* Low-Resource Languages
+* Production Machine Learning and MLOps
+* Experiment Design and A/B Testing
+* AI Education and Community Building
+
+⸻
+
+Selected Experience
+
+Machine Learning Engineer — Uzum Market
+
+Building and deploying production recommender systems across homepage ranking, product discovery, push notifications, product pages, and cart surfaces.
+
+Teaching Assistant — Yandex ML School Uzbekistan
+
+Supporting instructors and students across Machine Learning, Deep Learning, Reinforcement Learning, MLOps, and related coursework.
+
+Former Core Team Member — Machine Learning Community Uzbekistan
+
+Contributed to one of Uzbekistan’s early AI/ML communities through mentoring, course coordination, and 50+ educational/community initiatives.
+
+Co-Founder — Karmon AI
+
+Co-founded a multilingual AI-powered personal finance assistant focused on transaction categorization, receipt understanding, question-answering workflows, and financial literacy.
+
+⸻
+
+Technical Stack
+
+Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+Machine Learning & Data
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LightGBM-00C4CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge" />
+</p>
+
+Data Processing
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+MLOps & Serving
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0048D7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-4D4D4D?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+Big Data & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+⸻
+
+Selected Projects
+
+I am currently reorganizing my public repositories to better reflect my work in recommender systems, applied NLP, forecasting, robotics, and production-oriented ML engineering.
+
+Planned / selected repository areas:
+
+* Recommender systems experiments
+* Uzbek-Russian text classification and multilingual NLP
+* Demand forecasting pipelines
+* TurtleBot3 SLAM and autonomous navigation
+* ML education materials and teaching notebooks
+
+⸻
+
+Publications
+
+* Real-World Autonomous Indoor Navigation Using SLAM and Multi-Goal Execution with TurtleBot3
+    Science and Education in the 21st Century, 2025
+* Game-Based Approach to Improving Collaboration in Software Engineering
+    Science and Innovation International Scientific Journal, 2025
+
+⸻
+
+GitHub Stats
+
 <p align="center">
-  <img width="50%" src="https://github.r2v.ch/codewars?user=Aziz2002&top_languages=true&stroke=%23b362ff&theme=gradient_light" />
+  <img height="170" src="https://github-readme-stats-one-theta-43.vercel.app/api?username=azaza28&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&cache_seconds=1800" />
+</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-one-theta-43.vercel.app/api/top-langs/?username=azaza28&layout=compact&theme=gotham&cache_seconds=1800" />
 </p>
 
----
+⸻
+
+<p align="center">
+  <i>Building reliable machine learning systems for personalization, applied NLP, and emerging AI ecosystems.</i>
+</p>
