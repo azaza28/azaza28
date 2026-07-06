@@ -81,7 +81,8 @@ Beyond industry, I contribute to AI education in Uzbekistan as a **Teaching Assi
 
 ---
 
-## 🛠 Technical Stack
+<details>
+<summary><h2>🛠 Technical Stack</h2></summary>
 
 ### Core ML & Data Science
 
@@ -163,11 +164,12 @@ Beyond industry, I contribute to AI education in Uzbekistan as a **Teaching Assi
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
 </p>
 
+</details>
+
 ---
 
-## 🚀 Selected Projects
-
-> I am currently reorganizing my public repositories to better reflect my work in recommender systems, applied NLP, forecasting, robotics, and production-oriented ML engineering.
+<details>
+<summary><h2>🚀 Selected Projects</h2></summary>
 
 | Area | Focus |
 |---|---|
@@ -176,6 +178,8 @@ Beyond industry, I contribute to AI education in Uzbekistan as a **Teaching Assi
 | Forecasting | Demand forecasting, seasonality, operational planning |
 | Robotics | TurtleBot3, SLAM, ROS Navigation Stack, multi-goal execution |
 | Teaching | ML course materials, mentoring resources, educational notebooks |
+
+</details>
 
 ---
 
